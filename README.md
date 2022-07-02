@@ -30,3 +30,8 @@ Automated  water leakage detection systems can help the different sectors of the
  <p align ="center" >
   <img  width="700" src="https://github.com/sankalp20436/Water-Leak-Detection-System/blob/main/node.png" alt="Material Bread logo">
   </p>
+ 
+ * thingspeak cloud page-
+ <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Water-Leak-Detection-System/blob/main/thinkspeak.jpeg" alt="Material Bread logo">
+  </p>
