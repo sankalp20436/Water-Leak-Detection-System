@@ -15,6 +15,6 @@ Automated  water leakage detection systems can help the different sectors of the
 ## Tables 
 * All Tables-
  <p align ="center" >
-  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Relation%20tables/alltables.jpg" alt="Material Bread logo">
+  <img  width="700" src="https://github.com/sankalp20436/Water-Leak-Detection-System/blob/main/circuit-diagram.png" alt="Material Bread logo">
   </p>
 
